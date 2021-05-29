@@ -4,7 +4,10 @@
     <projectFile>TwitchToolsBot/TwitchToolsBot.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f042dea8-a439-40a5-8ebf-e12ac321d0b9" name="Default Changelist" comment="" />
+    <list default="true" id="f042dea8-a439-40a5-8ebf-e12ac321d0b9" name="Default Changelist" comment=".gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TwitchToolsBot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TwitchToolsBot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwitchToolsBot/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TwitchToolsBot/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +16,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TwitchToolsBot/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/TwitchToolsBot/IrcClient.cs" />
       <option value="$PROJECT_DIR$/TwitchToolsBot/Pinger.cs" />
       <option value="$PROJECT_DIR$/TwitchToolsBot/Secrets.cs" />
-      <option value="$PROJECT_DIR$/TwitchToolsBot/Program.cs" />
       <option value="$PROJECT_DIR$/.idea/.idea.TwitchToolsBot/.idea/.gitignore" />
+      <option value="$PROJECT_DIR$/TwitchToolsBot/Program.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tDDPWSfDMQx0cjEH9lkZq4cIG5" />
@@ -32,6 +38,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -63,13 +73,50 @@
       <option name="presentableId" value="Default" />
       <updated>1622294743004</updated>
       <workItem from="1622294745521" duration="726000" />
+      <workItem from="1622295501610" duration="922000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialize project">
+      <created>1622295723091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622295723091</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add IrcClient">
+      <created>1622295734316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622295734316</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Pinger">
+      <created>1622295740512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622295740512</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add program.cs">
+      <created>1622295750469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622295750469</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".gitignore">
+      <created>1622295789311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622295789311</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -81,8 +128,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initialize project" />
+    <MESSAGE value="Add IrcClient" />
+    <MESSAGE value="Add Pinger" />
+    <MESSAGE value="Add program.cs" />
+    <MESSAGE value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
   </component>
 </project>
